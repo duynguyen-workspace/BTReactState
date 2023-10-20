@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.model {
+  height: 450px;
+}
+
+.glass {
+  width: 200px;
+  top: 115px;
+}
